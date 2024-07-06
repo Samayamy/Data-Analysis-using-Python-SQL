@@ -30,3 +30,6 @@ Conclusion:
 This project exemplifies the integration of Python and SQL for data analytics, demonstrating the end-to-end workflow from data acquisition to insightful analysis. The insights generated provide valuable information for strategic decision-making, highlighting the importance of a robust data processing pipeline.
 
 Explore the code and findings in this repository to gain a deeper understanding of the data analytics process and the power of combining Python with SQL for comprehensive data analysis.
+
+![image](https://github.com/Samayamy/Data-Analysis-using-Python-SQL/assets/53617164/87c29f95-0a03-448b-81d8-80a1b1f48bb0)
+
