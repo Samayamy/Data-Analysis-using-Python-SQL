@@ -33,3 +33,11 @@ Explore the code and findings in this repository to gain a deeper understanding 
 
 ![image](https://github.com/Samayamy/Data-Analysis-using-Python-SQL/assets/53617164/87c29f95-0a03-448b-81d8-80a1b1f48bb0)
 
+![image](https://github.com/Samayamy/Data-Analysis-using-Python-SQL/assets/53617164/be7e3594-b019-49bd-9124-75557f53748c)
+
+![image](https://github.com/Samayamy/Data-Analysis-using-Python-SQL/assets/53617164/cf899074-c476-424e-9782-80bde2509edc)
+
+![image](https://github.com/Samayamy/Data-Analysis-using-Python-SQL/assets/53617164/9d9d8b71-a6b2-45f3-8afe-85859462ed49)
+
+![image](https://github.com/Samayamy/Data-Analysis-using-Python-SQL/assets/53617164/b6343090-f8b0-4abf-935c-0b939c3a8f42)
+
